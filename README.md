@@ -1,6 +1,6 @@
 # 🤖 AI Personal Assistant — n8n Workflow
 
-An automated personal assistant built on [n8n](https://n8n.io) that handles voice messages, text commands, and a suite of Google Workspace integrations — all triggered through Telegram.
+An automated personal assistant built on [n8n](https://n8n.io) that handles voice messages, text commands, and automates tasks across a suite of Google Workspace integrations — all triggered through Telegram.
 
 ---
 
